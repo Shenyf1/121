@@ -1,6 +1,7 @@
 body{
     background-color: white;
     margin:0px auto;
+    font-size: 14px;
 }
 
 #topbar-14{
@@ -56,4 +57,47 @@ a{
     float: left;
     height: 40px;
     line-height: 40px;
+}
+
+#site-14-header{
+    position: relative;
+    z-index: 20;
+    height: 100px;
+}
+
+#site-header-syf{
+    position: relative;
+    z-index: 20;
+    height: 100px;
+}
+#header-nav-14{
+    color: #333;
+    font-size: 17px;
+    word-spacing: 20px;
+    margin-left: 300px;
+    margin-top:-30px;
+}
+
+#shenyf2{
+  display: inline-block
+}
+#logo-syf{
+    margin-top:5px;
+    top:60px;
+    margin-left:100px;
+}
+
+#Box{
+    position: relative;
+  top: -50px;
+  right:-1133px;
+  z-index: 1;
+  width: 223px;
+  height: 48px;
+  padding: 0 10px;
+  border: 1px solid #e0e0e0;
+  font-size: 14px;
+  line-height: 48px;
+  outline: 0;
+  transition: all .2s;
 }
